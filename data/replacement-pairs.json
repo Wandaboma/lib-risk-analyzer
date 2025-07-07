@@ -1,0 +1,4442 @@
+[
+  {
+    "name": "ssip-client",
+    "replacement": "ssip-client-async"
+  },
+  {
+    "name": "hdrhistogram-c",
+    "replacement": "hdrhistogram"
+  },
+  {
+    "name": "sixtyfps",
+    "replacement": "slint"
+  },
+  {
+    "name": "gdkx11",
+    "replacement": "gdk4-x11"
+  },
+  {
+    "name": "actors-rs",
+    "replacement": "nav"
+  },
+  {
+    "name": "pgwire",
+    "replacement": "datafusion-postgres"
+  },
+  {
+    "name": "jujutsu",
+    "replacement": "jj-cli"
+  },
+  {
+    "name": "ferrite-ml",
+    "replacement": "ferrite-dl"
+  },
+  {
+    "name": "dbz-cli",
+    "replacement": "dbn-cli"
+  },
+  {
+    "name": "aes-ctr",
+    "replacement": "aes"
+  },
+  {
+    "name": "databento-defs",
+    "replacement": "dbn"
+  },
+  {
+    "name": "self_cell",
+    "replacement": "ouroboros"
+  },
+  {
+    "name": "crossterm_utils",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "passablewords",
+    "replacement": "zxcvbn"
+  },
+  {
+    "name": "rust_templates",
+    "replacement": "tron"
+  },
+  {
+    "name": "spinny",
+    "replacement": "spin"
+  },
+  {
+    "name": "zng-l10n-scraper",
+    "replacement": "cargo-zng"
+  },
+  {
+    "name": "safina-async-test-core",
+    "replacement": "safina-macros"
+  },
+  {
+    "name": "redact-data",
+    "replacement": "redact-crypto"
+  },
+  {
+    "name": "dinghy",
+    "replacement": "cargo-dinghy"
+  },
+  {
+    "name": "bracket_parse",
+    "replacement": "Gobble"
+  },
+  {
+    "name": "cpuid-bool",
+    "replacement": "cpufeatures"
+  },
+  {
+    "name": "libostree",
+    "replacement": "ostree"
+  },
+  {
+    "name": "elastic_types_macros",
+    "replacement": "elastic_types_derive"
+  },
+  {
+    "name": "nebula-graph-fbthrift-storage-v2",
+    "replacement": "nebula-fbthrift-storage-v2"
+  },
+  {
+    "name": "yara-x-proto",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "parquet2",
+    "replacement": "arrow2"
+  },
+  {
+    "name": "ethereumvm-network-classic",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "baby-pool",
+    "replacement": "topograph"
+  },
+  {
+    "name": "termkan",
+    "replacement": "simple-term-renderer"
+  },
+  {
+    "name": "kubectx-rs",
+    "replacement": "Kubectx"
+  },
+  {
+    "name": "trust-dns",
+    "replacement": "hickory-dns"
+  },
+  {
+    "name": "ruma-events-macros",
+    "replacement": "ruma-macros"
+  },
+  {
+    "name": "metal-rs",
+    "replacement": "metal"
+  },
+  {
+    "name": "kvarn-reference",
+    "replacement": "moella"
+  },
+  {
+    "name": "oxigraph_server",
+    "replacement": "oxigraph-cli"
+  },
+  {
+    "name": "zhconv-cli",
+    "replacement": "zhconv"
+  },
+  {
+    "name": "bind-hal",
+    "replacement": "py32-bind-hal"
+  },
+  {
+    "name": "packai",
+    "replacement": "AIPACK"
+  },
+  {
+    "name": "isatty",
+    "replacement": "atty"
+  },
+  {
+    "name": "tauri-api",
+    "replacement": "tauri"
+  },
+  {
+    "name": "tauri_includedir_codegen",
+    "replacement": "tauri-codegen"
+  },
+  {
+    "name": "blue_engine_core",
+    "replacement": "blue_engine"
+  },
+  {
+    "name": "ramp-maker",
+    "replacement": "stepgen"
+  },
+  {
+    "name": "kiss3d-trackball",
+    "replacement": "bevy_trackball"
+  },
+  {
+    "name": "gdnative-visual_script",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "realsense-sys",
+    "replacement": "realsense-rust"
+  },
+  {
+    "name": "nvgx",
+    "replacement": "Vulkan"
+  },
+  {
+    "name": "tooey",
+    "replacement": "Tuit"
+  },
+  {
+    "name": "vec_file",
+    "replacement": "vecfile"
+  },
+  {
+    "name": "regex",
+    "replacement": "once_cell"
+  },
+  {
+    "name": "libtensorflow-sys",
+    "replacement": "tensorflow-sys"
+  },
+  {
+    "name": "pact-derive",
+    "replacement": "codas"
+  },
+  {
+    "name": "alloy-core",
+    "replacement": "Alloy"
+  },
+  {
+    "name": "wascc-codec",
+    "replacement": "wasmcloud-provider-core"
+  },
+  {
+    "name": "alphabet_detector",
+    "replacement": "Langram"
+  },
+  {
+    "name": "yew-alert",
+    "replacement": "alert-rs"
+  },
+  {
+    "name": "flagset",
+    "replacement": "FlagSet"
+  },
+  {
+    "name": "reql-derive",
+    "replacement": "reql-macros"
+  },
+  {
+    "name": "stac-async",
+    "replacement": "stac"
+  },
+  {
+    "name": "rust-p2p-core",
+    "replacement": "rustp2p"
+  },
+  {
+    "name": "gtk",
+    "replacement": "gtk4"
+  },
+  {
+    "name": "git-next-git",
+    "replacement": "git-next"
+  },
+  {
+    "name": "jerk-test",
+    "replacement": "jerk"
+  },
+  {
+    "name": "maili-superchain",
+    "replacement": "maili-genesis"
+  },
+  {
+    "name": "dharitri-wasm-module-features",
+    "replacement": "dharitri-wasm-modules"
+  },
+  {
+    "name": "rc_slice",
+    "replacement": "rc-slice2"
+  },
+  {
+    "name": "lz4-compression",
+    "replacement": "lz-fear"
+  },
+  {
+    "name": "pwasm-utils-cli",
+    "replacement": "pwasm-utils"
+  },
+  {
+    "name": "vopono",
+    "replacement": "MozWire"
+  },
+  {
+    "name": "asmov-common-testing-macro",
+    "replacement": "srctrait-common-testing-macro"
+  },
+  {
+    "name": "multi-tunnel",
+    "replacement": "tailscale"
+  },
+  {
+    "name": "slip-10",
+    "replacement": "hd-wallet"
+  },
+  {
+    "name": "nonymous-scoop",
+    "replacement": "bore"
+  },
+  {
+    "name": "egui-directx11",
+    "replacement": "egui-d3d11"
+  },
+  {
+    "name": "pw_hash",
+    "replacement": "pwhash"
+  },
+  {
+    "name": "peg-syntax-ext",
+    "replacement": "peg"
+  },
+  {
+    "name": "actix-web-opentelemetry",
+    "replacement": "opentelemetry-instrumentation-actix-web"
+  },
+  {
+    "name": "esp32c2-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "spinlock",
+    "replacement": "spin"
+  },
+  {
+    "name": "async-std",
+    "replacement": "smol"
+  },
+  {
+    "name": "cw-check-contract",
+    "replacement": "cosmwasm-check"
+  },
+  {
+    "name": "struct-merge",
+    "replacement": "inter-struct"
+  },
+  {
+    "name": "apple-web-service-endpoint",
+    "replacement": "http-api-client-endpoint"
+  },
+  {
+    "name": "yara-x",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "rapier3d-stl",
+    "replacement": "rapier3d-meshloader"
+  },
+  {
+    "name": "tiny_id",
+    "replacement": "block-id"
+  },
+  {
+    "name": "icu_segmenter_lstm",
+    "replacement": "icu_segmenter"
+  },
+  {
+    "name": "gdnative-common",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "fluvio-smartstream-derive",
+    "replacement": "fluvio-smartmodule-derive"
+  },
+  {
+    "name": "host_discovery",
+    "replacement": "Whoami"
+  },
+  {
+    "name": "ethereumvm-network-expanse",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "sunrise-next",
+    "replacement": "sunrise"
+  },
+  {
+    "name": "alhc",
+    "replacement": "curl"
+  },
+  {
+    "name": "udp_traffic_generator",
+    "replacement": "crab-net"
+  },
+  {
+    "name": "nrf52",
+    "replacement": "nrf52832-pac"
+  },
+  {
+    "name": "cranelift-faerie",
+    "replacement": "cranelift-object"
+  },
+  {
+    "name": "rnnoise-c",
+    "replacement": "nnnoiseless"
+  },
+  {
+    "name": "ruma-identifiers",
+    "replacement": "ruma-common"
+  },
+  {
+    "name": "rmp-serialize",
+    "replacement": "rmp-serde"
+  },
+  {
+    "name": "monster_chess",
+    "replacement": "cozy-chess"
+  },
+  {
+    "name": "ruminant",
+    "replacement": "parser-compose"
+  },
+  {
+    "name": "openrr",
+    "replacement": "openrr-planner"
+  },
+  {
+    "name": "blissify-rs",
+    "replacement": "blissify"
+  },
+  {
+    "name": "multipart-nickel",
+    "replacement": "multipart"
+  },
+  {
+    "name": "spawn-editor",
+    "replacement": "edit"
+  },
+  {
+    "name": "clippy_dummy",
+    "replacement": "clippy"
+  },
+  {
+    "name": "optivorbis",
+    "replacement": "OptiVorbis"
+  },
+  {
+    "name": "wasmer-runtime",
+    "replacement": "wasmer"
+  },
+  {
+    "name": "smol-attributes",
+    "replacement": "smol-potat"
+  },
+  {
+    "name": "at-rs",
+    "replacement": "atat"
+  },
+  {
+    "name": "color-rs2",
+    "replacement": "color-rs"
+  },
+  {
+    "name": "lmake_version_from_date",
+    "replacement": "cargo-auto"
+  },
+  {
+    "name": "aws-lc-ring",
+    "replacement": "aws-lc-sys"
+  },
+  {
+    "name": "adler2",
+    "replacement": "adler"
+  },
+  {
+    "name": "beetle-collatz-threaded",
+    "replacement": "beetle-collatz"
+  },
+  {
+    "name": "jose",
+    "replacement": "ring"
+  },
+  {
+    "name": "yara-x-proto-json",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "woodcock",
+    "replacement": "gateway"
+  },
+  {
+    "name": "ncollide3d-updated",
+    "replacement": "parry3d"
+  },
+  {
+    "name": "cocoa",
+    "replacement": "objc2"
+  },
+  {
+    "name": "dinotree_alg",
+    "replacement": "broccoli"
+  },
+  {
+    "name": "ethereumvm-network-ubiq",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "pact_mock_server_ffi",
+    "replacement": "pact_ffi"
+  },
+  {
+    "name": "tail_chaser",
+    "replacement": "staart"
+  },
+  {
+    "name": "gtk-layer-shell",
+    "replacement": "gtk4-layer-shell"
+  },
+  {
+    "name": "tauri-winit",
+    "replacement": "web-sys"
+  },
+  {
+    "name": "webm-native",
+    "replacement": "webm"
+  },
+  {
+    "name": "cookie_store",
+    "replacement": "reqwest_cookie_store"
+  },
+  {
+    "name": "aws-lc",
+    "replacement": "aws-lc-sys"
+  },
+  {
+    "name": "iso8061-timestamp",
+    "replacement": "iso8601-timestamp"
+  },
+  {
+    "name": "liblinkspace",
+    "replacement": "linkspace"
+  },
+  {
+    "name": "mrot_config",
+    "replacement": "mrot"
+  },
+  {
+    "name": "gtk-sys",
+    "replacement": "gtk4-sys"
+  },
+  {
+    "name": "downcast",
+    "replacement": "downcast-rs"
+  },
+  {
+    "name": "fastdl",
+    "replacement": "libfastdl"
+  },
+  {
+    "name": "async-std-resolver",
+    "replacement": "hickory-dns"
+  },
+  {
+    "name": "blue_engine_dynamic",
+    "replacement": "blue_engine"
+  },
+  {
+    "name": "double-checked-cell",
+    "replacement": "once_cell"
+  },
+  {
+    "name": "dart-bindgen",
+    "replacement": "ffigen"
+  },
+  {
+    "name": "rsdp",
+    "replacement": "acpi"
+  },
+  {
+    "name": "openat-ext",
+    "replacement": "cap-std-ext"
+  },
+  {
+    "name": "strck_ident",
+    "replacement": "strck"
+  },
+  {
+    "name": "supply-chain-trust-crate-000023",
+    "replacement": "once_cell"
+  },
+  {
+    "name": "lento-yoga",
+    "replacement": "taffy"
+  },
+  {
+    "name": "phoner",
+    "replacement": "Phonet"
+  },
+  {
+    "name": "russell_openblas",
+    "replacement": "russell_lab"
+  },
+  {
+    "name": "rand-sequence",
+    "replacement": "rand-unique"
+  },
+  {
+    "name": "khronos-egl",
+    "replacement": "egl"
+  },
+  {
+    "name": "pimalaya-secret",
+    "replacement": "secret-lib"
+  },
+  {
+    "name": "olympia_disassembler",
+    "replacement": "olympia_cli"
+  },
+  {
+    "name": "atsamd11c14a",
+    "replacement": "atsamd11c"
+  },
+  {
+    "name": "mileage",
+    "replacement": "icu_collections"
+  },
+  {
+    "name": "walker",
+    "replacement": "walkdir"
+  },
+  {
+    "name": "linear_solver",
+    "replacement": "monotonic_solver"
+  },
+  {
+    "name": "runtime",
+    "replacement": "async-std"
+  },
+  {
+    "name": "rlua",
+    "replacement": "mlua"
+  },
+  {
+    "name": "version-bump",
+    "replacement": "nextver"
+  },
+  {
+    "name": "utf8-ranges",
+    "replacement": "regex-syntax"
+  },
+  {
+    "name": "multipart2",
+    "replacement": "multipart-async"
+  },
+  {
+    "name": "cargo-workflows",
+    "replacement": "cargo-make"
+  },
+  {
+    "name": "colors-transform",
+    "replacement": "colorsys"
+  },
+  {
+    "name": "bevy-undo",
+    "replacement": "bevy-undo2"
+  },
+  {
+    "name": "geo-uom",
+    "replacement": "serde"
+  },
+  {
+    "name": "old-http",
+    "replacement": "Teepee"
+  },
+  {
+    "name": "risc0-zkvm",
+    "replacement": "metal"
+  },
+  {
+    "name": "sys-info-rs",
+    "replacement": "sys-info"
+  },
+  {
+    "name": "extHarvester",
+    "replacement": "vsixHarvester"
+  },
+  {
+    "name": "libtwitch-rs",
+    "replacement": "Helix"
+  },
+  {
+    "name": "safe_authenticator",
+    "replacement": "sn_client"
+  },
+  {
+    "name": "dire",
+    "replacement": "dirs-next"
+  },
+  {
+    "name": "trust-dns-util",
+    "replacement": "hickory-util"
+  },
+  {
+    "name": "pcapture",
+    "replacement": "pcapng"
+  },
+  {
+    "name": "actinium226-librespot",
+    "replacement": "librespot"
+  },
+  {
+    "name": "cargo-lyc",
+    "replacement": "cargo-faircode"
+  },
+  {
+    "name": "askama_actix",
+    "replacement": "askama"
+  },
+  {
+    "name": "iroh-net-report",
+    "replacement": "iroh"
+  },
+  {
+    "name": "switchboard-aggregator",
+    "replacement": "switchboard-v2"
+  },
+  {
+    "name": "dynamodb-tester",
+    "replacement": "dynamodb-tools"
+  },
+  {
+    "name": "rubble-nrf52810",
+    "replacement": "rubble-nrf52"
+  },
+  {
+    "name": "tinycom",
+    "replacement": "com-rs"
+  },
+  {
+    "name": "nom-config-in",
+    "replacement": "Kconfig"
+  },
+  {
+    "name": "quick-builder",
+    "replacement": "bon"
+  },
+  {
+    "name": "thinbox",
+    "replacement": "fat_type"
+  },
+  {
+    "name": "shuttle-metadata",
+    "replacement": "shuttle-runtime"
+  },
+  {
+    "name": "exprz-core",
+    "replacement": "exprz"
+  },
+  {
+    "name": "ordermap",
+    "replacement": "indexmap"
+  },
+  {
+    "name": "smartnoise_validator",
+    "replacement": "OpenDP"
+  },
+  {
+    "name": "nale",
+    "replacement": "libnail"
+  },
+  {
+    "name": "u16cstr",
+    "replacement": "widestring"
+  },
+  {
+    "name": "oasis-test",
+    "replacement": "memchain"
+  },
+  {
+    "name": "bdk",
+    "replacement": "bdk_wallet"
+  },
+  {
+    "name": "nspire",
+    "replacement": "ndless"
+  },
+  {
+    "name": "gtk3-macros",
+    "replacement": "gtk4-macros"
+  },
+  {
+    "name": "axum-cloudflare-adapter-macros",
+    "replacement": "axum-wasm-macros"
+  },
+  {
+    "name": "cyclic_data_types",
+    "replacement": "Vec"
+  },
+  {
+    "name": "lottie2webp",
+    "replacement": "lottieconv"
+  },
+  {
+    "name": "exasol",
+    "replacement": "sqlx-exasol"
+  },
+  {
+    "name": "ruma-serde",
+    "replacement": "ruma-common"
+  },
+  {
+    "name": "easy-http-request",
+    "replacement": "reqwest"
+  },
+  {
+    "name": "hashicorp-lru",
+    "replacement": "caches"
+  },
+  {
+    "name": "swc_plugin",
+    "replacement": "swc_core"
+  },
+  {
+    "name": "app_dirs",
+    "replacement": "directories"
+  },
+  {
+    "name": "eo",
+    "replacement": "eolib"
+  },
+  {
+    "name": "convert-nonogram",
+    "replacement": "number-loom"
+  },
+  {
+    "name": "tempdir",
+    "replacement": "tempfile"
+  },
+  {
+    "name": "coord",
+    "replacement": "vek"
+  },
+  {
+    "name": "extendable-enums",
+    "replacement": "extendable-data"
+  },
+  {
+    "name": "pimalaya-process",
+    "replacement": "process-lib"
+  },
+  {
+    "name": "cargo-sort-ck",
+    "replacement": "cargo-sort"
+  },
+  {
+    "name": "completers",
+    "replacement": "clap"
+  },
+  {
+    "name": "svgparser",
+    "replacement": "svgtypes"
+  },
+  {
+    "name": "c2pa-status-tracker",
+    "replacement": "c2pa"
+  },
+  {
+    "name": "assertify_proc_macros",
+    "replacement": "assert2"
+  },
+  {
+    "name": "iron-login",
+    "replacement": "iron-sessionstorage"
+  },
+  {
+    "name": "sync-resolve",
+    "replacement": "resolve"
+  },
+  {
+    "name": "heatmap",
+    "replacement": "histogram"
+  },
+  {
+    "name": "qiniu-multipart",
+    "replacement": "multipart-async"
+  },
+  {
+    "name": "cawg-identity",
+    "replacement": "c2pa"
+  },
+  {
+    "name": "braille-rs",
+    "replacement": "rsille"
+  },
+  {
+    "name": "twoway",
+    "replacement": "memchr"
+  },
+  {
+    "name": "iterchunks",
+    "replacement": "itermore"
+  },
+  {
+    "name": "geozero-shp",
+    "replacement": "geozero"
+  },
+  {
+    "name": "talloc",
+    "replacement": "Talc"
+  },
+  {
+    "name": "rtlola-input-plugins",
+    "replacement": "rtlola-io-plugins"
+  },
+  {
+    "name": "gcookie",
+    "replacement": "rookie"
+  },
+  {
+    "name": "jujutsu-lib",
+    "replacement": "jj-lib"
+  },
+  {
+    "name": "interoptopus_backend_cpython_cffi",
+    "replacement": "interoptopus_backend_cpython"
+  },
+  {
+    "name": "parse-hyperlinks-html",
+    "replacement": "parse-hyperlinks-extras"
+  },
+  {
+    "name": "djot",
+    "replacement": "jotdown"
+  },
+  {
+    "name": "avalanche-sdk",
+    "replacement": "avalanche-types"
+  },
+  {
+    "name": "pallet-eras",
+    "replacement": "pallet-eons"
+  },
+  {
+    "name": "rawbytes",
+    "replacement": "zerocopy"
+  },
+  {
+    "name": "webhere",
+    "replacement": "webdev"
+  },
+  {
+    "name": "esp32h2-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "cargo-freeze",
+    "replacement": "cargo-edit"
+  },
+  {
+    "name": "largeint",
+    "replacement": "num-bigint"
+  },
+  {
+    "name": "pkcs10",
+    "replacement": "x509-cert"
+  },
+  {
+    "name": "typed-format-version",
+    "replacement": "media-type-version"
+  },
+  {
+    "name": "fastcrypto",
+    "replacement": "ed25519-consensus"
+  },
+  {
+    "name": "rdftk_graph",
+    "replacement": "rdftk_core"
+  },
+  {
+    "name": "tp-note",
+    "replacement": "tpnote"
+  },
+  {
+    "name": "axum_csrf",
+    "replacement": "axum_session"
+  },
+  {
+    "name": "uri",
+    "replacement": "url"
+  },
+  {
+    "name": "nvgx-ogl",
+    "replacement": "Vulkan"
+  },
+  {
+    "name": "matrix_uri",
+    "replacement": "Ruma"
+  },
+  {
+    "name": "ordinal_crypto",
+    "replacement": "RGP"
+  },
+  {
+    "name": "cadeau-sys",
+    "replacement": "xmf-sys"
+  },
+  {
+    "name": "mio-uds",
+    "replacement": "mio"
+  },
+  {
+    "name": "sounding-base",
+    "replacement": "sounding-analysis"
+  },
+  {
+    "name": "kaledis_dalbit",
+    "replacement": "darklua"
+  },
+  {
+    "name": "eink_waveshare_rs",
+    "replacement": "epd-waveshare"
+  },
+  {
+    "name": "elrond-wasm-module-dns",
+    "replacement": "elrond-wasm-modules"
+  },
+  {
+    "name": "packed_integer_array",
+    "replacement": "bitpacking"
+  },
+  {
+    "name": "proc",
+    "replacement": "procinfo"
+  },
+  {
+    "name": "ssmarshal",
+    "replacement": "bincode"
+  },
+  {
+    "name": "simple_hasher",
+    "replacement": "Easy-Hasher"
+  },
+  {
+    "name": "evcxr_repl",
+    "replacement": "rusti"
+  },
+  {
+    "name": "locdev",
+    "replacement": "hostie"
+  },
+  {
+    "name": "terminal-escapes",
+    "replacement": "termion"
+  },
+  {
+    "name": "sp-core-hashing-proc-macro",
+    "replacement": "sp-crypto-hashing-proc-macro"
+  },
+  {
+    "name": "transit_model_collection",
+    "replacement": "typed_index_collection"
+  },
+  {
+    "name": "sindri-openapi",
+    "replacement": "sindri"
+  },
+  {
+    "name": "nostr-sqlite",
+    "replacement": "nostr-lmdb"
+  },
+  {
+    "name": "evm-network-expanse",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "ether_convert",
+    "replacement": "ether-converter"
+  },
+  {
+    "name": "deft-yoga",
+    "replacement": "taffy"
+  },
+  {
+    "name": "gdkx11-sys",
+    "replacement": "gdk4-x11-sys"
+  },
+  {
+    "name": "uhppote-sys",
+    "replacement": "uhppote-rs"
+  },
+  {
+    "name": "assertify",
+    "replacement": "assert2"
+  },
+  {
+    "name": "btree_experiment",
+    "replacement": "pstd"
+  },
+  {
+    "name": "nanotweaks",
+    "replacement": "spread_macros"
+  },
+  {
+    "name": "wasmparser-nostd",
+    "replacement": "wasmparser"
+  },
+  {
+    "name": "smartnoise_runtime",
+    "replacement": "OpenDP"
+  },
+  {
+    "name": "dusk-hades",
+    "replacement": "dusk-poseidon"
+  },
+  {
+    "name": "bevy_xpbd_2d",
+    "replacement": "avian2d"
+  },
+  {
+    "name": "cw-storage",
+    "replacement": "cosmwasm-storage"
+  },
+  {
+    "name": "osrs-buffer",
+    "replacement": "osrs-bytes"
+  },
+  {
+    "name": "once_mut",
+    "replacement": "lock-free-static"
+  },
+  {
+    "name": "uchardet",
+    "replacement": "chardet"
+  },
+  {
+    "name": "mpu9250-i2c",
+    "replacement": "mpu9250"
+  },
+  {
+    "name": "rifle",
+    "replacement": "gateway"
+  },
+  {
+    "name": "ruma-serde-macros",
+    "replacement": "ruma-macros"
+  },
+  {
+    "name": "should_error",
+    "replacement": "should_match"
+  },
+  {
+    "name": "noosphere-car",
+    "replacement": "iroh-car"
+  },
+  {
+    "name": "vgmdb-rust",
+    "replacement": "vgmdb"
+  },
+  {
+    "name": "directories-next",
+    "replacement": "dirs-next"
+  },
+  {
+    "name": "casper-wasm",
+    "replacement": "parity-wasm"
+  },
+  {
+    "name": "evm-network-classic",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "portaudio",
+    "replacement": "CPAL"
+  },
+  {
+    "name": "flat-rs",
+    "replacement": "pallas"
+  },
+  {
+    "name": "atsamd21g18a",
+    "replacement": "atsamd21g"
+  },
+  {
+    "name": "fui_tray",
+    "replacement": "fui_system"
+  },
+  {
+    "name": "hoot",
+    "replacement": "ureq-proto"
+  },
+  {
+    "name": "puroro-protobuf-compiled",
+    "replacement": "puroro"
+  },
+  {
+    "name": "resvg-cairo",
+    "replacement": "resvg"
+  },
+  {
+    "name": "usvg-cli",
+    "replacement": "usvg"
+  },
+  {
+    "name": "gdnative-ui",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "plaid-openapi",
+    "replacement": "plaid"
+  },
+  {
+    "name": "zetta",
+    "replacement": "eza"
+  },
+  {
+    "name": "risc0-zkp",
+    "replacement": "metal"
+  },
+  {
+    "name": "fraction",
+    "replacement": "Decimal"
+  },
+  {
+    "name": "netsock",
+    "replacement": "netstat2"
+  },
+  {
+    "name": "destiny-pkg",
+    "replacement": "tiger-pkg"
+  },
+  {
+    "name": "embedded-hal-async",
+    "replacement": "embedded-io-async"
+  },
+  {
+    "name": "javy-apis",
+    "replacement": "Javy"
+  },
+  {
+    "name": "poissonrecon",
+    "replacement": "poisson_reconstruction"
+  },
+  {
+    "name": "cbitmap",
+    "replacement": "flagset"
+  },
+  {
+    "name": "stream-cipher",
+    "replacement": "cipher"
+  },
+  {
+    "name": "yew-i18n",
+    "replacement": "i18nrs"
+  },
+  {
+    "name": "adafruit-lcd-backpack",
+    "replacement": "i2c-character-display"
+  },
+  {
+    "name": "yaml-rust-davvid",
+    "replacement": "yaml-rust2"
+  },
+  {
+    "name": "sticker2",
+    "replacement": "SyntaxDot"
+  },
+  {
+    "name": "lyon_path_iterator",
+    "replacement": "lyon_path"
+  },
+  {
+    "name": "elasticlunr-rs",
+    "replacement": "stork"
+  },
+  {
+    "name": "ul-next-sys",
+    "replacement": "ul-next"
+  },
+  {
+    "name": "biller",
+    "replacement": "broker"
+  },
+  {
+    "name": "crossterm_style",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "nanotweaks-proc",
+    "replacement": "spread_macros"
+  },
+  {
+    "name": "serde_nbt",
+    "replacement": "valence_nbt"
+  },
+  {
+    "name": "waxosuit-codec",
+    "replacement": "wascc-codec"
+  },
+  {
+    "name": "st7789",
+    "replacement": "mipidsi"
+  },
+  {
+    "name": "ddtrace",
+    "replacement": "reqwest-middleware"
+  },
+  {
+    "name": "hmac-sha1",
+    "replacement": "sha1"
+  },
+  {
+    "name": "simple-xmlrpc",
+    "replacement": "serde_xmlrpc"
+  },
+  {
+    "name": "sixtyfps-interpreter",
+    "replacement": "slint-interpreter"
+  },
+  {
+    "name": "moonfire-ffmpeg",
+    "replacement": "ffmpeg4"
+  },
+  {
+    "name": "asn1_der",
+    "replacement": "serde_asn1_der"
+  },
+  {
+    "name": "lpc82x-hal",
+    "replacement": "lpc8xx-hal"
+  },
+  {
+    "name": "ht",
+    "replacement": "xh"
+  },
+  {
+    "name": "instant",
+    "replacement": "web-time"
+  },
+  {
+    "name": "config_struct",
+    "replacement": "edres"
+  },
+  {
+    "name": "pg-db-idle-agent",
+    "replacement": "pg-db-idle-agent-async"
+  },
+  {
+    "name": "cortex-m-rtfm-macros",
+    "replacement": "cortex-m-rtic"
+  },
+  {
+    "name": "block-cipher-trait",
+    "replacement": "cipher"
+  },
+  {
+    "name": "evm-network-foundation",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "separator",
+    "replacement": "num-format"
+  },
+  {
+    "name": "matrix-qrcode",
+    "replacement": "matrix-sdk-qrcode"
+  },
+  {
+    "name": "atsame54p20a",
+    "replacement": "atsame54p"
+  },
+  {
+    "name": "apple-web-service-isahc-client",
+    "replacement": "http-api-isahc-client"
+  },
+  {
+    "name": "gdk",
+    "replacement": "gdk4"
+  },
+  {
+    "name": "instagram-graph-api-client",
+    "replacement": "http-api-isahc-client"
+  },
+  {
+    "name": "yab32",
+    "replacement": "threetwo"
+  },
+  {
+    "name": "crossterm_terminal",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "askama_warp",
+    "replacement": "askama"
+  },
+  {
+    "name": "evm-network-ubiq",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "awslc",
+    "replacement": "aws-lc-sys"
+  },
+  {
+    "name": "encrypted_fs",
+    "replacement": "encryptedfs"
+  },
+  {
+    "name": "com-rs",
+    "replacement": "com"
+  },
+  {
+    "name": "bevy_mod_gltf_patched",
+    "replacement": "bevy_gltf"
+  },
+  {
+    "name": "askama-derive-axum",
+    "replacement": "askama_axum"
+  },
+  {
+    "name": "apple-web-service-client",
+    "replacement": "http-api-client"
+  },
+  {
+    "name": "ethers-etherscan",
+    "replacement": "foundry-block-explorers"
+  },
+  {
+    "name": "sixtyfps-build",
+    "replacement": "slint-build"
+  },
+  {
+    "name": "sn_messaging",
+    "replacement": "safe_network"
+  },
+  {
+    "name": "simple-chunk-allocator",
+    "replacement": "galloc"
+  },
+  {
+    "name": "miscreant",
+    "replacement": "aes-siv"
+  },
+  {
+    "name": "rust_storage_interface_library",
+    "replacement": "ssvm_storage_interface"
+  },
+  {
+    "name": "hc-wasmer-compiler-cranelift",
+    "replacement": "wasmer-compiler-llvm"
+  },
+  {
+    "name": "stm32h7-ethernet",
+    "replacement": "stm32h7xx-hal"
+  },
+  {
+    "name": "actix_validated_forms",
+    "replacement": "actix-web-validator"
+  },
+  {
+    "name": "asmov-common-testing",
+    "replacement": "srctrait-common-testing"
+  },
+  {
+    "name": "ocb",
+    "replacement": "ocb3"
+  },
+  {
+    "name": "actix-redis",
+    "replacement": "fred"
+  },
+  {
+    "name": "totp-sos",
+    "replacement": "totp-rs"
+  },
+  {
+    "name": "smtp",
+    "replacement": "lettre"
+  },
+  {
+    "name": "bigint",
+    "replacement": "uint"
+  },
+  {
+    "name": "not-stakkr",
+    "replacement": "tweetr"
+  },
+  {
+    "name": "bcc",
+    "replacement": "libbpf-rs"
+  },
+  {
+    "name": "openpgp-card-sequoia",
+    "replacement": "openpgp-card-rpgp"
+  },
+  {
+    "name": "cache_remember",
+    "replacement": "cacheapp"
+  },
+  {
+    "name": "spade-docker",
+    "replacement": "buildx"
+  },
+  {
+    "name": "poem-openapi-api-derive",
+    "replacement": "poem-openapi-macro"
+  },
+  {
+    "name": "gigtags",
+    "replacement": "gigtag"
+  },
+  {
+    "name": "pkcs7",
+    "replacement": "cms"
+  },
+  {
+    "name": "erupt",
+    "replacement": "ash"
+  },
+  {
+    "name": "microasync-util",
+    "replacement": "MicroAsync-RT"
+  },
+  {
+    "name": "libscemu",
+    "replacement": "libmwemu"
+  },
+  {
+    "name": "opentelemetry-zpages",
+    "replacement": "OpenTelemetry"
+  },
+  {
+    "name": "prettyprint",
+    "replacement": "bat"
+  },
+  {
+    "name": "wvwasi-wry",
+    "replacement": "tao"
+  },
+  {
+    "name": "docopt",
+    "replacement": "clap"
+  },
+  {
+    "name": "rk3399-rs",
+    "replacement": "rk3399-pac"
+  },
+  {
+    "name": "faststd",
+    "replacement": "fstd"
+  },
+  {
+    "name": "x264-next",
+    "replacement": "x264"
+  },
+  {
+    "name": "atsamd51g19a",
+    "replacement": "atsamd51g"
+  },
+  {
+    "name": "basecracker",
+    "replacement": "Ciphey"
+  },
+  {
+    "name": "boondock",
+    "replacement": "shiplift"
+  },
+  {
+    "name": "rea-rs",
+    "replacement": "float_eq"
+  },
+  {
+    "name": "ucd-generate",
+    "replacement": "regex-cli"
+  },
+  {
+    "name": "iceberg-rs",
+    "replacement": "iceberg"
+  },
+  {
+    "name": "egui_virtual_list",
+    "replacement": "egui_infinite_scroll"
+  },
+  {
+    "name": "rustodoist_rest2",
+    "replacement": "todoist-v2-rest"
+  },
+  {
+    "name": "eigs-rs",
+    "replacement": "eigs"
+  },
+  {
+    "name": "rust_process_interface_library",
+    "replacement": "ssvm_process_interface"
+  },
+  {
+    "name": "actix-web-actors",
+    "replacement": "actix-ws"
+  },
+  {
+    "name": "channel-async",
+    "replacement": "async-std"
+  },
+  {
+    "name": "htime",
+    "replacement": "humantime"
+  },
+  {
+    "name": "unspoken",
+    "replacement": "jutella"
+  },
+  {
+    "name": "ordinal-trait",
+    "replacement": "ordinal"
+  },
+  {
+    "name": "gdkwayland",
+    "replacement": "gdk4-wayland"
+  },
+  {
+    "name": "pink-json",
+    "replacement": "serde-json-core"
+  },
+  {
+    "name": "rustls-native-certs",
+    "replacement": "rustls-platform-verifier"
+  },
+  {
+    "name": "probe-run",
+    "replacement": "probe-rs"
+  },
+  {
+    "name": "globwalk",
+    "replacement": "glob"
+  },
+  {
+    "name": "strason",
+    "replacement": "serde_json"
+  },
+  {
+    "name": "audio-duration",
+    "replacement": "sampled_data_duration"
+  },
+  {
+    "name": "rcc",
+    "replacement": "saltwater"
+  },
+  {
+    "name": "sn_bls_ckd",
+    "replacement": "curv-kzen"
+  },
+  {
+    "name": "rustcracker",
+    "replacement": "firecracker-rs-sdk"
+  },
+  {
+    "name": "ssvm_process_interface",
+    "replacement": "wasmedge_process_interface"
+  },
+  {
+    "name": "multipart",
+    "replacement": "multipart-async"
+  },
+  {
+    "name": "pimalaya-pomodoro",
+    "replacement": "time-lib"
+  },
+  {
+    "name": "trickster",
+    "replacement": "tr"
+  },
+  {
+    "name": "stm32h7-fmc",
+    "replacement": "stm32h7xx-hal"
+  },
+  {
+    "name": "jja",
+    "replacement": "bytefmt"
+  },
+  {
+    "name": "watchboi",
+    "replacement": "floof"
+  },
+  {
+    "name": "atsamd51p19a",
+    "replacement": "atsamd51p"
+  },
+  {
+    "name": "martin-mbtiles",
+    "replacement": "mbtiles"
+  },
+  {
+    "name": "random-integer",
+    "replacement": "random-number"
+  },
+  {
+    "name": "git-next-webhook-actor",
+    "replacement": "git-next"
+  },
+  {
+    "name": "safina-net",
+    "replacement": "safina"
+  },
+  {
+    "name": "geoscience-uom",
+    "replacement": "serde"
+  },
+  {
+    "name": "ncollide3d",
+    "replacement": "parry3d"
+  },
+  {
+    "name": "kyber",
+    "replacement": "ml-kem"
+  },
+  {
+    "name": "abstract-std",
+    "replacement": "abstract-sdk"
+  },
+  {
+    "name": "die-exit-2",
+    "replacement": "die-exit"
+  },
+  {
+    "name": "letsencrypt-rs",
+    "replacement": "acme-client"
+  },
+  {
+    "name": "sol",
+    "replacement": "embree-rs"
+  },
+  {
+    "name": "tdns-update",
+    "replacement": "tdns-cli"
+  },
+  {
+    "name": "chan-signal",
+    "replacement": "crossbeam-channel"
+  },
+  {
+    "name": "femtorinth",
+    "replacement": "ferinth"
+  },
+  {
+    "name": "bls_ckd",
+    "replacement": "curv-kzen"
+  },
+  {
+    "name": "shared-bus-rtic",
+    "replacement": "embedded-hal-bus"
+  },
+  {
+    "name": "ssdcg",
+    "replacement": "ssd"
+  },
+  {
+    "name": "stm32h7-sdmmc",
+    "replacement": "stm32h7xx-hal"
+  },
+  {
+    "name": "zinc64-debug",
+    "replacement": "zinc64-emu"
+  },
+  {
+    "name": "stm32f030-hal",
+    "replacement": "stm32f0xx-hal"
+  },
+  {
+    "name": "opentls",
+    "replacement": "async-native-tls"
+  },
+  {
+    "name": "dbz-lib",
+    "replacement": "dbn"
+  },
+  {
+    "name": "linera-alloy-core",
+    "replacement": "Alloy"
+  },
+  {
+    "name": "samotop-model",
+    "replacement": "samotop-core"
+  },
+  {
+    "name": "alkali",
+    "replacement": "sodiumoxide"
+  },
+  {
+    "name": "yaxp-common",
+    "replacement": "yaxp-core"
+  },
+  {
+    "name": "trust-dns-proto",
+    "replacement": "hickory-proto"
+  },
+  {
+    "name": "lmake_semver",
+    "replacement": "cargo-auto"
+  },
+  {
+    "name": "safe-mmio",
+    "replacement": "tock-registers"
+  },
+  {
+    "name": "sentry-contrib-native",
+    "replacement": "sentry"
+  },
+  {
+    "name": "transit_model_relations",
+    "replacement": "relational_types"
+  },
+  {
+    "name": "evm-network-musicoin",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "cargo-color-gen",
+    "replacement": "bevygen"
+  },
+  {
+    "name": "htmlprep",
+    "replacement": "sarascript"
+  },
+  {
+    "name": "videocall-daemon",
+    "replacement": "videocall-cli"
+  },
+  {
+    "name": "pxservrs",
+    "replacement": "pxserv"
+  },
+  {
+    "name": "slotmapvec",
+    "replacement": "slotmap"
+  },
+  {
+    "name": "google-cloud-trace-v2",
+    "replacement": "OpenTelemetry"
+  },
+  {
+    "name": "rust_interface_file_generator",
+    "replacement": "rifgen"
+  },
+  {
+    "name": "rnnoise-sys",
+    "replacement": "nnnoiseless"
+  },
+  {
+    "name": "llua",
+    "replacement": "ezlua"
+  },
+  {
+    "name": "nebula-graph-fbthrift-common",
+    "replacement": "nebula-fbthrift-common"
+  },
+  {
+    "name": "gtk-layer-shell-sys",
+    "replacement": "gtk4-layer-shell"
+  },
+  {
+    "name": "gdnative-audio",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "neo-crypto",
+    "replacement": "cryptolib"
+  },
+  {
+    "name": "test-case-derive",
+    "replacement": "test-case"
+  },
+  {
+    "name": "unit-prefix",
+    "replacement": "number_prefix"
+  },
+  {
+    "name": "boa_engine",
+    "replacement": "boa_unicode"
+  },
+  {
+    "name": "serde_yaml_bw",
+    "replacement": "serde_yaml"
+  },
+  {
+    "name": "yew-unocss-transformer",
+    "replacement": "unocss-classes"
+  },
+  {
+    "name": "vbinseq",
+    "replacement": "binseq"
+  },
+  {
+    "name": "dsh_rest_api_client",
+    "replacement": "dsh_sdk"
+  },
+  {
+    "name": "user_agent",
+    "replacement": "cookie_store"
+  },
+  {
+    "name": "inc-complete",
+    "replacement": "Salsa"
+  },
+  {
+    "name": "rugrat",
+    "replacement": "rug"
+  },
+  {
+    "name": "deflate",
+    "replacement": "flate2"
+  },
+  {
+    "name": "num-macros",
+    "replacement": "num-derive"
+  },
+  {
+    "name": "patchwork",
+    "replacement": "ggez"
+  },
+  {
+    "name": "gdnative-network",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "arcanist",
+    "replacement": "pkgcraft"
+  },
+  {
+    "name": "signal-msg",
+    "replacement": "signal-notify"
+  },
+  {
+    "name": "auto_uds",
+    "replacement": "automotive_diag"
+  },
+  {
+    "name": "macchina-read",
+    "replacement": "libmacchina"
+  },
+  {
+    "name": "badgers",
+    "replacement": "ab_glyph"
+  },
+  {
+    "name": "rugint",
+    "replacement": "rug"
+  },
+  {
+    "name": "ark-ec-vrfs",
+    "replacement": "ark-vrf"
+  },
+  {
+    "name": "tokio-core",
+    "replacement": "Tokio"
+  },
+  {
+    "name": "pimalaya-email-tpl",
+    "replacement": "mml-lib"
+  },
+  {
+    "name": "gdnative-macros",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "ncollide2d-updated",
+    "replacement": "parry2d"
+  },
+  {
+    "name": "tui_draw",
+    "replacement": "rillo"
+  },
+  {
+    "name": "shabling",
+    "replacement": "shebling"
+  },
+  {
+    "name": "roboplc",
+    "replacement": "rtsc"
+  },
+  {
+    "name": "automatic_file_sorter",
+    "replacement": "FileSorterX"
+  },
+  {
+    "name": "tauri-dialog-sys",
+    "replacement": "rfd"
+  },
+  {
+    "name": "nphysics",
+    "replacement": "nphysics3d"
+  },
+  {
+    "name": "morse-quest",
+    "replacement": "code-smore"
+  },
+  {
+    "name": "lazy-mut-rs",
+    "replacement": "lazy_mut"
+  },
+  {
+    "name": "easy-tensorrt-sys",
+    "replacement": "cudarc"
+  },
+  {
+    "name": "postscript",
+    "replacement": "opentype"
+  },
+  {
+    "name": "stacktrace",
+    "replacement": "error-chain"
+  },
+  {
+    "name": "actix-telepathy",
+    "replacement": "Actix-Telepathy"
+  },
+  {
+    "name": "Minimal",
+    "replacement": "minimal_web"
+  },
+  {
+    "name": "elrond-wasm-module-pause",
+    "replacement": "elrond-wasm-modules"
+  },
+  {
+    "name": "hmac-serialiser-rs",
+    "replacement": "hmac-serialiser"
+  },
+  {
+    "name": "typestate-automata",
+    "replacement": "typestate"
+  },
+  {
+    "name": "bcld2",
+    "replacement": "whatlang"
+  },
+  {
+    "name": "darktoken",
+    "replacement": "darkcontract"
+  },
+  {
+    "name": "scanning",
+    "replacement": "barcoders"
+  },
+  {
+    "name": "asmov-common-tooling",
+    "replacement": "srctrait-common-tooling"
+  },
+  {
+    "name": "geozero-core",
+    "replacement": "GeoZero"
+  },
+  {
+    "name": "ion-c-sys-macros",
+    "replacement": "ion-rs"
+  },
+  {
+    "name": "dusk-kelvin-map",
+    "replacement": "dusk-hamt"
+  },
+  {
+    "name": "abstract-os",
+    "replacement": "abstract-sdk"
+  },
+  {
+    "name": "exempi",
+    "replacement": "exempi2"
+  },
+  {
+    "name": "merge-yaml-hash",
+    "replacement": "yaml-hash"
+  },
+  {
+    "name": "currency_convertor",
+    "replacement": "oer_conversion_rates"
+  },
+  {
+    "name": "arcon_backend",
+    "replacement": "arcon"
+  },
+  {
+    "name": "swc_ecmascript",
+    "replacement": "swc_core"
+  },
+  {
+    "name": "nebula-graph-fbthrift-meta-v2",
+    "replacement": "nebula-fbthrift-meta-v2"
+  },
+  {
+    "name": "colorparse",
+    "replacement": "anstyle-git"
+  },
+  {
+    "name": "magicapi-ai-gateway",
+    "replacement": "noveum-ai-gateway"
+  },
+  {
+    "name": "azul-glutin",
+    "replacement": "glow"
+  },
+  {
+    "name": "duniter-crypto",
+    "replacement": "runiter-crypto"
+  },
+  {
+    "name": "viffy",
+    "replacement": "nalgebra"
+  },
+  {
+    "name": "rerast",
+    "replacement": "rust-analyzer"
+  },
+  {
+    "name": "liquid-dsp-bindings",
+    "replacement": "liquid-dsp-bindings-sys"
+  },
+  {
+    "name": "libpng-sys",
+    "replacement": "LodePNG"
+  },
+  {
+    "name": "askama_axum",
+    "replacement": "askama"
+  },
+  {
+    "name": "atsamd51p20a",
+    "replacement": "atsamd51p"
+  },
+  {
+    "name": "soroban-wasmi-validation",
+    "replacement": "upstream"
+  },
+  {
+    "name": "li_wgpu_glyph",
+    "replacement": "glyphon"
+  },
+  {
+    "name": "tauri-winres",
+    "replacement": "embed-resource"
+  },
+  {
+    "name": "fortify",
+    "replacement": "ouroboros"
+  },
+  {
+    "name": "hex_spell",
+    "replacement": "hexspell"
+  },
+  {
+    "name": "scuffle-ffmpeg-sys",
+    "replacement": "ffmpeg-sys-next"
+  },
+  {
+    "name": "elastic_hyper",
+    "replacement": "elastic_reqwest"
+  },
+  {
+    "name": "interpolate_idents",
+    "replacement": "paste"
+  },
+  {
+    "name": "lucet-module-data",
+    "replacement": "lucet-module"
+  },
+  {
+    "name": "rulex",
+    "replacement": "pomsky"
+  },
+  {
+    "name": "bevy_gltf_save_load",
+    "replacement": "Blenvy"
+  },
+  {
+    "name": "tokio-send-fd",
+    "replacement": "async-send-fd"
+  },
+  {
+    "name": "spirv-types",
+    "replacement": "spirv-std-types"
+  },
+  {
+    "name": "msp430-atomic",
+    "replacement": "portable-atomic"
+  },
+  {
+    "name": "azul-winit",
+    "replacement": "web-sys"
+  },
+  {
+    "name": "esp32-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "picnic-sys",
+    "replacement": "libpicnic-sys"
+  },
+  {
+    "name": "mwapi",
+    "replacement": "mwbot"
+  },
+  {
+    "name": "skl",
+    "replacement": "orderwal"
+  },
+  {
+    "name": "festive",
+    "replacement": "process_control"
+  },
+  {
+    "name": "be_tween",
+    "replacement": "bevy_tweening"
+  },
+  {
+    "name": "cosmos_sdk",
+    "replacement": "cosmrs"
+  },
+  {
+    "name": "sticker2-utils",
+    "replacement": "SyntaxDot"
+  },
+  {
+    "name": "ripemd160",
+    "replacement": "ripemd"
+  },
+  {
+    "name": "extendable-enums-helpers",
+    "replacement": "extendable-data-helpers"
+  },
+  {
+    "name": "llhd-sim",
+    "replacement": "LLHD"
+  },
+  {
+    "name": "iterwindows",
+    "replacement": "itermore"
+  },
+  {
+    "name": "cargo-inkanim",
+    "replacement": "inkanim"
+  },
+  {
+    "name": "wasm-compose",
+    "replacement": "wac"
+  },
+  {
+    "name": "poolparty",
+    "replacement": "smol"
+  },
+  {
+    "name": "arkmsm",
+    "replacement": "ark-msm"
+  },
+  {
+    "name": "comfy-table",
+    "replacement": "Comfy-table"
+  },
+  {
+    "name": "stellar-ledger",
+    "replacement": "ledger-transport-zemu"
+  },
+  {
+    "name": "ion-hash",
+    "replacement": "ion-rs"
+  },
+  {
+    "name": "sntp",
+    "replacement": "smolapps"
+  },
+  {
+    "name": "bevy-cross-gizmo",
+    "replacement": "Bevy"
+  },
+  {
+    "name": "tauri_includedir",
+    "replacement": "tauri-codegen"
+  },
+  {
+    "name": "ssvm_tensorflow_interface",
+    "replacement": "wasmedge_tensorflow_interface"
+  },
+  {
+    "name": "gdnative-input",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "ioctl",
+    "replacement": "nix"
+  },
+  {
+    "name": "atsamd51n20a",
+    "replacement": "atsamd51n"
+  },
+  {
+    "name": "ink-wrapper-types",
+    "replacement": "aleph_client"
+  },
+  {
+    "name": "bounded-integer",
+    "replacement": "serde1"
+  },
+  {
+    "name": "mpris-player",
+    "replacement": "mpris-server"
+  },
+  {
+    "name": "crab_nat",
+    "replacement": "netdev"
+  },
+  {
+    "name": "rust-graph",
+    "replacement": "petgraph"
+  },
+  {
+    "name": "quicr",
+    "replacement": "quinn"
+  },
+  {
+    "name": "object_store",
+    "replacement": "opendal"
+  },
+  {
+    "name": "lockpool",
+    "replacement": "lockable"
+  },
+  {
+    "name": "aes-soft",
+    "replacement": "aes"
+  },
+  {
+    "name": "mercy-cli",
+    "replacement": "Mercy"
+  },
+  {
+    "name": "redo",
+    "replacement": "undo"
+  },
+  {
+    "name": "riscv-semihosting",
+    "replacement": "semihosting"
+  },
+  {
+    "name": "sodiumoxide-xchacha20poly1305",
+    "replacement": "sodiumoxide"
+  },
+  {
+    "name": "gmp-mpfr",
+    "replacement": "rug"
+  },
+  {
+    "name": "feed",
+    "replacement": "rss"
+  },
+  {
+    "name": "battery-cli",
+    "replacement": "battop"
+  },
+  {
+    "name": "containerd-shim-client",
+    "replacement": "containerd-shim-protos"
+  },
+  {
+    "name": "rudof_lib",
+    "replacement": "rudof"
+  },
+  {
+    "name": "otlp-stdout-client",
+    "replacement": "otlp-stdout-span-exporter"
+  },
+  {
+    "name": "nary_tree",
+    "replacement": "slab_tree"
+  },
+  {
+    "name": "deepspeech",
+    "replacement": "coqui-stt"
+  },
+  {
+    "name": "yara-x-proto-yaml",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "zenoh-plugin-dds",
+    "replacement": "zenoh-plugin-ros2dds"
+  },
+  {
+    "name": "starts-ends-with-caseless",
+    "replacement": "str-utils"
+  },
+  {
+    "name": "ion-c-sys",
+    "replacement": "ion-rs"
+  },
+  {
+    "name": "odbc-safe",
+    "replacement": "odbc-api"
+  },
+  {
+    "name": "grafbase-federated-graph",
+    "replacement": "graphql-federated-graph"
+  },
+  {
+    "name": "jerk-build",
+    "replacement": "jerk"
+  },
+  {
+    "name": "ruma-identifiers-macros",
+    "replacement": "ruma-macros"
+  },
+  {
+    "name": "signatory-dalek",
+    "replacement": "ed25519-dalek"
+  },
+  {
+    "name": "imxrt1062-fcb-gen",
+    "replacement": "imxrt-boot-gen"
+  },
+  {
+    "name": "rulex-bin",
+    "replacement": "pomsky-bin"
+  },
+  {
+    "name": "semantic-analyzer",
+    "replacement": "nom"
+  },
+  {
+    "name": "opentelemetry-jaeger",
+    "replacement": "opentelemetry-jaeger-propagator"
+  },
+  {
+    "name": "pi_res",
+    "replacement": "pi_res_mgr"
+  },
+  {
+    "name": "deadpool-redis-cluster",
+    "replacement": "deadpool-redis"
+  },
+  {
+    "name": "c2pa-crypto",
+    "replacement": "c2pa"
+  },
+  {
+    "name": "askama_rocket",
+    "replacement": "askama"
+  },
+  {
+    "name": "esp32s2-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "yew-state",
+    "replacement": "Yewdux"
+  },
+  {
+    "name": "all_variants",
+    "replacement": "every_variant"
+  },
+  {
+    "name": "limine-rs",
+    "replacement": "limine"
+  },
+  {
+    "name": "pimalaya-time",
+    "replacement": "time-lib"
+  },
+  {
+    "name": "sse-server",
+    "replacement": "broker"
+  },
+  {
+    "name": "soroban-wasmi_core",
+    "replacement": "upstream"
+  },
+  {
+    "name": "hyprforest-installer",
+    "replacement": "HERE"
+  },
+  {
+    "name": "axum_garde",
+    "replacement": "axum-valid"
+  },
+  {
+    "name": "superchain-primitives",
+    "replacement": "op-alloy-genesis"
+  },
+  {
+    "name": "aws-smithy-mocks-experimental",
+    "replacement": "aws-smithy-mocks"
+  },
+  {
+    "name": "send-cell",
+    "replacement": "fragile"
+  },
+  {
+    "name": "resvg-qt",
+    "replacement": "resvg"
+  },
+  {
+    "name": "lru-cache-macros",
+    "replacement": "cache-macro"
+  },
+  {
+    "name": "configparser",
+    "replacement": "tokio"
+  },
+  {
+    "name": "strophe",
+    "replacement": "libstrophe-sys"
+  },
+  {
+    "name": "nphysics2d",
+    "replacement": "rapier3d"
+  },
+  {
+    "name": "rusteams",
+    "replacement": "upstream"
+  },
+  {
+    "name": "lubeck",
+    "replacement": "higher"
+  },
+  {
+    "name": "sha0",
+    "replacement": "SHA-1"
+  },
+  {
+    "name": "pact-crypto",
+    "replacement": "codas"
+  },
+  {
+    "name": "ansi-to-tui",
+    "replacement": "ratatui"
+  },
+  {
+    "name": "c_str_macro",
+    "replacement": "c_string"
+  },
+  {
+    "name": "ctftools",
+    "replacement": "pwnr"
+  },
+  {
+    "name": "tensor-stream",
+    "replacement": "tensor-trade-stream"
+  },
+  {
+    "name": "jui_file",
+    "replacement": "cbsk_file"
+  },
+  {
+    "name": "sqlx-oldapi",
+    "replacement": "dotenvy"
+  },
+  {
+    "name": "atsamd21j18a",
+    "replacement": "atsamd21j"
+  },
+  {
+    "name": "rokit",
+    "replacement": "Rokit"
+  },
+  {
+    "name": "lambda-otel-utils",
+    "replacement": "lambda-otel-lite"
+  },
+  {
+    "name": "amethyst_cli",
+    "replacement": "amethyst_tools"
+  },
+  {
+    "name": "mobc-boltrs",
+    "replacement": "mobc-bolt"
+  },
+  {
+    "name": "hd-ed25519",
+    "replacement": "ristretto"
+  },
+  {
+    "name": "esp32s3-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "very_simple_2d",
+    "replacement": "egaku2d"
+  },
+  {
+    "name": "lapin-futures",
+    "replacement": "lapin"
+  },
+  {
+    "name": "safe_app",
+    "replacement": "sn_client"
+  },
+  {
+    "name": "luminance-windowing",
+    "replacement": "platform"
+  },
+  {
+    "name": "ffmpeg-sys-next-rk",
+    "replacement": "ffmpeg-sys-next"
+  },
+  {
+    "name": "protobuf-codegen-pure3",
+    "replacement": "protobuf-codegen"
+  },
+  {
+    "name": "check-versions",
+    "replacement": "version-sync"
+  },
+  {
+    "name": "nebula-graph-client",
+    "replacement": "nebula-client"
+  },
+  {
+    "name": "mantle-test",
+    "replacement": "memchain"
+  },
+  {
+    "name": "dilithium",
+    "replacement": "ml-dsa"
+  },
+  {
+    "name": "criterion2",
+    "replacement": "bpaf"
+  },
+  {
+    "name": "rinja_derive",
+    "replacement": "askama"
+  },
+  {
+    "name": "tsify-next",
+    "replacement": "tsify"
+  },
+  {
+    "name": "iroh-net",
+    "replacement": "iroh"
+  },
+  {
+    "name": "pyo3-chrono",
+    "replacement": "pyo3"
+  },
+  {
+    "name": "ffmpeg-next-rk",
+    "replacement": "ffmpeg-next"
+  },
+  {
+    "name": "substrate-subxt-client",
+    "replacement": "subxt"
+  },
+  {
+    "name": "nebula-graph-fbthrift-storage",
+    "replacement": "nebula-fbthrift-storage"
+  },
+  {
+    "name": "tauri-dialog",
+    "replacement": "rfd"
+  },
+  {
+    "name": "assert_cli",
+    "replacement": "assert_cmd"
+  },
+  {
+    "name": "split-first-char",
+    "replacement": "split-char-from-str"
+  },
+  {
+    "name": "gexiv2-sys",
+    "replacement": "rexiv2"
+  },
+  {
+    "name": "ytdlr",
+    "replacement": "yt-dlp"
+  },
+  {
+    "name": "wowAddonManager",
+    "replacement": "Crossterm"
+  },
+  {
+    "name": "bliss-rs",
+    "replacement": "bliss-audio"
+  },
+  {
+    "name": "puroro-plugin",
+    "replacement": "puroro-codegen"
+  },
+  {
+    "name": "druid",
+    "replacement": "Xilem"
+  },
+  {
+    "name": "wav",
+    "replacement": "hound"
+  },
+  {
+    "name": "tri_avltree",
+    "replacement": "avltriee"
+  },
+  {
+    "name": "ndk-build",
+    "replacement": "xbuild"
+  },
+  {
+    "name": "bibcompiler",
+    "replacement": "latex-thebib"
+  },
+  {
+    "name": "rca9539",
+    "replacement": "PCA9539"
+  },
+  {
+    "name": "babel-bridge",
+    "replacement": "llm-bridge"
+  },
+  {
+    "name": "pystval",
+    "replacement": "flexible_inspect_rs"
+  },
+  {
+    "name": "vk-sync-fork",
+    "replacement": "vk-sync"
+  },
+  {
+    "name": "wasmer-compiler-cranelift-near",
+    "replacement": "wasmer-compiler-llvm"
+  },
+  {
+    "name": "sqlx_wasi",
+    "replacement": "dotenvy"
+  },
+  {
+    "name": "ureq",
+    "replacement": "rustls-platform-verifier"
+  },
+  {
+    "name": "xmlparser-derive",
+    "replacement": "strong-xml"
+  },
+  {
+    "name": "safina-sync",
+    "replacement": "safina"
+  },
+  {
+    "name": "guess-that-lang",
+    "replacement": "Dockerfile"
+  },
+  {
+    "name": "fbx_direct",
+    "replacement": "fbxcel"
+  },
+  {
+    "name": "resvg-raqote",
+    "replacement": "resvg"
+  },
+  {
+    "name": "dw3000-ng",
+    "replacement": "smoltcp"
+  },
+  {
+    "name": "capnp-nonblock",
+    "replacement": "capnp-futures"
+  },
+  {
+    "name": "abstract-core",
+    "replacement": "abstract-sdk"
+  },
+  {
+    "name": "string_capacity",
+    "replacement": "capacity_builder"
+  },
+  {
+    "name": "gear-pwasm-utils",
+    "replacement": "wasm-instrument"
+  },
+  {
+    "name": "cortex-a",
+    "replacement": "aarch64-cpu"
+  },
+  {
+    "name": "gcc",
+    "replacement": "cc"
+  },
+  {
+    "name": "zinc64-loader",
+    "replacement": "zinc64-emu"
+  },
+  {
+    "name": "rdfox-sys",
+    "replacement": "rdfox-rs"
+  },
+  {
+    "name": "pl011-uart",
+    "replacement": "arm-pl011-uart"
+  },
+  {
+    "name": "vercre-vci",
+    "replacement": "vercre-issuer"
+  },
+  {
+    "name": "ring-aead",
+    "replacement": "ring-compat"
+  },
+  {
+    "name": "chan",
+    "replacement": "crossbeam-channel"
+  },
+  {
+    "name": "gdnative-video",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "libostree-sys",
+    "replacement": "ostree-sys"
+  },
+  {
+    "name": "wasm-tools",
+    "replacement": "wasm-compose"
+  },
+  {
+    "name": "rulex-macro",
+    "replacement": "pomsky-macro"
+  },
+  {
+    "name": "rpsl-parser",
+    "replacement": "rpsl-rs"
+  },
+  {
+    "name": "fst-levenshtein",
+    "replacement": "fst"
+  },
+  {
+    "name": "winrt",
+    "replacement": "windows"
+  },
+  {
+    "name": "const-varint",
+    "replacement": "varing"
+  },
+  {
+    "name": "substrate-subxt-proc-macro",
+    "replacement": "subxt-macro"
+  },
+  {
+    "name": "instagram-web-api-client",
+    "replacement": "http-api-isahc-client"
+  },
+  {
+    "name": "hpm5361-pac",
+    "replacement": "hpm-metapac"
+  },
+  {
+    "name": "iconv-sys",
+    "replacement": "libc"
+  },
+  {
+    "name": "ncollide2d",
+    "replacement": "parry2d"
+  },
+  {
+    "name": "ogl33",
+    "replacement": "gl33"
+  },
+  {
+    "name": "crc64-rs",
+    "replacement": "crc64"
+  },
+  {
+    "name": "rinja_parser",
+    "replacement": "askama"
+  },
+  {
+    "name": "dharitri-wasm-module-users",
+    "replacement": "dharitri-wasm-modules"
+  },
+  {
+    "name": "pimalaya-keyring",
+    "replacement": "keyring-lib"
+  },
+  {
+    "name": "gdnative-physics",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "dfsql",
+    "replacement": "len"
+  },
+  {
+    "name": "fastcrypto-derive",
+    "replacement": "ed25519-consensus"
+  },
+  {
+    "name": "rclip",
+    "replacement": "clipboard"
+  },
+  {
+    "name": "dbus",
+    "replacement": "dbus-crossroads"
+  },
+  {
+    "name": "trust-dns-recursor",
+    "replacement": "hickory-recursor"
+  },
+  {
+    "name": "lyon_path_builder",
+    "replacement": "lyon_path"
+  },
+  {
+    "name": "tracing-fmt",
+    "replacement": "tracing-subscriber"
+  },
+  {
+    "name": "wow_vanilla_dbc",
+    "replacement": "wow_dbc"
+  },
+  {
+    "name": "atomic-polyfill",
+    "replacement": "portable-atomic"
+  },
+  {
+    "name": "rsincrond",
+    "replacement": "incron"
+  },
+  {
+    "name": "get-size2",
+    "replacement": "get-size"
+  },
+  {
+    "name": "jemallocator",
+    "replacement": "tikv-jemallocator"
+  },
+  {
+    "name": "bevy_gltf_blueprints",
+    "replacement": "Blenvy"
+  },
+  {
+    "name": "vercre-wallet",
+    "replacement": "vercre-holder"
+  },
+  {
+    "name": "garmin_client",
+    "replacement": "garmin_download"
+  },
+  {
+    "name": "applevisor-sys",
+    "replacement": "Applevisor"
+  },
+  {
+    "name": "fst-regex",
+    "replacement": "regex-automata"
+  },
+  {
+    "name": "gdk-sys",
+    "replacement": "gdk4-sys"
+  },
+  {
+    "name": "rdftk_core",
+    "replacement": "rdftk_iri"
+  },
+  {
+    "name": "flate2-crc",
+    "replacement": "crc32fast"
+  },
+  {
+    "name": "zoneinfo_parse",
+    "replacement": "zoneinfo_compiled"
+  },
+  {
+    "name": "aspotify",
+    "replacement": "rspotify"
+  },
+  {
+    "name": "litrs",
+    "replacement": "literalext"
+  },
+  {
+    "name": "wash-cli",
+    "replacement": "wash"
+  },
+  {
+    "name": "gxi_hako",
+    "replacement": "GXCI"
+  },
+  {
+    "name": "rustfmt",
+    "replacement": "rustfmt-nightly"
+  },
+  {
+    "name": "cargo-packager-config",
+    "replacement": "cargo-packager"
+  },
+  {
+    "name": "yara-x-parser",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "tokio-os-timer",
+    "replacement": "async-timer"
+  },
+  {
+    "name": "bv2av",
+    "replacement": "abv"
+  },
+  {
+    "name": "roslibrust",
+    "replacement": "roslibrust_codegen"
+  },
+  {
+    "name": "pact",
+    "replacement": "codas"
+  },
+  {
+    "name": "snmp2",
+    "replacement": "SNMP2"
+  },
+  {
+    "name": "lifeline",
+    "replacement": "postage"
+  },
+  {
+    "name": "simple_stats",
+    "replacement": "statistical"
+  },
+  {
+    "name": "proc_getter",
+    "replacement": "lpfs"
+  },
+  {
+    "name": "cld2",
+    "replacement": "whatlang"
+  },
+  {
+    "name": "axum-debug",
+    "replacement": "axum-macros"
+  },
+  {
+    "name": "trust-dns-client",
+    "replacement": "hickory-client"
+  },
+  {
+    "name": "regent",
+    "replacement": "bilge"
+  },
+  {
+    "name": "sleef-trig-sys",
+    "replacement": "sleef-trig"
+  },
+  {
+    "name": "yew-navbar",
+    "replacement": "navbar"
+  },
+  {
+    "name": "linera-alloy",
+    "replacement": "Alloy"
+  },
+  {
+    "name": "esp32c6-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "pimalaya-email",
+    "replacement": "email-lib"
+  },
+  {
+    "name": "emocli",
+    "replacement": "gmocli"
+  },
+  {
+    "name": "lockbook_core",
+    "replacement": "lb-rs"
+  },
+  {
+    "name": "pyth-client",
+    "replacement": "pyth-sdk-solana"
+  },
+  {
+    "name": "pimalaya-oauth2",
+    "replacement": "oauth-lib"
+  },
+  {
+    "name": "russell_chk",
+    "replacement": "russell_lab"
+  },
+  {
+    "name": "atsamd51j19a",
+    "replacement": "atsamd51j"
+  },
+  {
+    "name": "ffmpeg-sys-next-crossfix",
+    "replacement": "ffmpeg-sys-next"
+  },
+  {
+    "name": "rpki-rtr",
+    "replacement": "rpki"
+  },
+  {
+    "name": "rowrap-rs",
+    "replacement": "rowrap"
+  },
+  {
+    "name": "dmenv",
+    "replacement": "poetry"
+  },
+  {
+    "name": "ratframe",
+    "replacement": "egui_ratatui"
+  },
+  {
+    "name": "tonic-richer-error",
+    "replacement": "tonic-types"
+  },
+  {
+    "name": "ruma-api",
+    "replacement": "ruma-common"
+  },
+  {
+    "name": "simulated_packed_simd",
+    "replacement": "packed_simd"
+  },
+  {
+    "name": "welds-cli",
+    "replacement": "Gumbo"
+  },
+  {
+    "name": "trust-dns-server",
+    "replacement": "hickory-server"
+  },
+  {
+    "name": "quicr-core",
+    "replacement": "quinn-proto"
+  },
+  {
+    "name": "wasmer-compiler-cranelift",
+    "replacement": "wasmer-compiler-llvm"
+  },
+  {
+    "name": "poem-openapi-response",
+    "replacement": "poem-extensions"
+  },
+  {
+    "name": "fontconfig",
+    "replacement": "yeslogic-fontconfig-sys"
+  },
+  {
+    "name": "lateinit",
+    "replacement": "static_cell"
+  },
+  {
+    "name": "substrate-subxt",
+    "replacement": "subxt"
+  },
+  {
+    "name": "elrond-wasm-module-features",
+    "replacement": "elrond-wasm-modules"
+  },
+  {
+    "name": "webtransport-quinn",
+    "replacement": "web-transport-quinn"
+  },
+  {
+    "name": "futures-io-traits-sync-wrapper",
+    "replacement": "async-stream-packed"
+  },
+  {
+    "name": "axum-password-worker",
+    "replacement": "password-worker"
+  },
+  {
+    "name": "activitypub",
+    "replacement": "ActivityStreams"
+  },
+  {
+    "name": "shuttle-secrets",
+    "replacement": "shuttle-runtime"
+  },
+  {
+    "name": "icu_testdata",
+    "replacement": "ICU4X"
+  },
+  {
+    "name": "ch32v-rt",
+    "replacement": "qingke-rt"
+  },
+  {
+    "name": "gdnative-editor",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "protobuf-codegen-pure",
+    "replacement": "protobuf-codegen"
+  },
+  {
+    "name": "nebula-graph-fbthrift-common-v2",
+    "replacement": "nebula-fbthrift-common-v2"
+  },
+  {
+    "name": "nebula-graph-fbthrift-raftex-v2",
+    "replacement": "nebula-fbthrift-raftex-v2"
+  },
+  {
+    "name": "llm-api-adapter",
+    "replacement": "llm-bridge"
+  },
+  {
+    "name": "atsamd51j20a",
+    "replacement": "atsamd51j"
+  },
+  {
+    "name": "actix_validated_forms_derive",
+    "replacement": "actix-web-validator"
+  },
+  {
+    "name": "col_macros",
+    "replacement": "col_proc_macros"
+  },
+  {
+    "name": "packed_simd_2",
+    "replacement": "stdsimd"
+  },
+  {
+    "name": "publicsuffix",
+    "replacement": "psl"
+  },
+  {
+    "name": "usb",
+    "replacement": "nusb"
+  },
+  {
+    "name": "sandkiste",
+    "replacement": "From"
+  },
+  {
+    "name": "waxosuit-guest",
+    "replacement": "wascc-actor"
+  },
+  {
+    "name": "trust-dns-rustls",
+    "replacement": "trust-dns-proto"
+  },
+  {
+    "name": "voicevox-dyn",
+    "replacement": "vvcore"
+  },
+  {
+    "name": "tugger-debian",
+    "replacement": "debian-packaging"
+  },
+  {
+    "name": "thin-dst",
+    "replacement": "slice-dst"
+  },
+  {
+    "name": "com",
+    "replacement": "WinRT"
+  },
+  {
+    "name": "gdkwayland-sys",
+    "replacement": "gdk4-wayland-sys"
+  },
+  {
+    "name": "dirs-sys-next",
+    "replacement": "dirs-next"
+  },
+  {
+    "name": "mobc-nebula-graph",
+    "replacement": "mobc-nebula"
+  },
+  {
+    "name": "miniz_oxide",
+    "replacement": "adler2"
+  },
+  {
+    "name": "crossterm_cursor",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "nightly-async-nats",
+    "replacement": "async-nats"
+  },
+  {
+    "name": "ip6gen",
+    "replacement": "ipgen-cli"
+  },
+  {
+    "name": "safina-executor",
+    "replacement": "safina"
+  },
+  {
+    "name": "jpeg-decoder",
+    "replacement": "zune-jpeg"
+  },
+  {
+    "name": "delaunay_creator",
+    "replacement": "meshing"
+  },
+  {
+    "name": "mavryk-smart-rollup-core",
+    "replacement": "mavryk-smart-rollup-host"
+  },
+  {
+    "name": "dbus-tree",
+    "replacement": "dbus-crossroads"
+  },
+  {
+    "name": "bnf_sampler",
+    "replacement": "kbnf"
+  },
+  {
+    "name": "ink-wrapper",
+    "replacement": "aleph_client"
+  },
+  {
+    "name": "handlebars_misc_helpers",
+    "replacement": "set"
+  },
+  {
+    "name": "bugsyth_engine_imgui_support",
+    "replacement": "imgui-rs"
+  },
+  {
+    "name": "c255b3",
+    "replacement": "r255b3"
+  },
+  {
+    "name": "rustc-serialize2",
+    "replacement": "serde"
+  },
+  {
+    "name": "multipart-2021",
+    "replacement": "multipart-async"
+  },
+  {
+    "name": "nickel-lang",
+    "replacement": "nickel-lang-cli"
+  },
+  {
+    "name": "rdftk_names",
+    "replacement": "rdftk_iri"
+  },
+  {
+    "name": "crossterm_screen",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "lyon_bezier",
+    "replacement": "lyon_geom"
+  },
+  {
+    "name": "git-record",
+    "replacement": "scm-record"
+  },
+  {
+    "name": "axum-sessions",
+    "replacement": "tower-sessions"
+  },
+  {
+    "name": "gdnative-graphics",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "fluvio-smartstream",
+    "replacement": "fluvio-smartmodule"
+  },
+  {
+    "name": "complex",
+    "replacement": "num"
+  },
+  {
+    "name": "vercre-core",
+    "replacement": "vercre-holder"
+  },
+  {
+    "name": "crash_orm_migration",
+    "replacement": "crash_orm"
+  },
+  {
+    "name": "nebula-graph-fbthrift-graph",
+    "replacement": "nebula-fbthrift-graph"
+  },
+  {
+    "name": "light-snowflake-connector",
+    "replacement": "snowflake-api"
+  },
+  {
+    "name": "rss-rs",
+    "replacement": "rss"
+  },
+  {
+    "name": "veeks_millis",
+    "replacement": "varweeks_millis"
+  },
+  {
+    "name": "exstd",
+    "replacement": "dotenvy"
+  },
+  {
+    "name": "url-crawler",
+    "replacement": "crusty"
+  },
+  {
+    "name": "pact_matching_ffi",
+    "replacement": "pact_ffi"
+  },
+  {
+    "name": "wgpu_glyph",
+    "replacement": "glyphon"
+  },
+  {
+    "name": "concurrent",
+    "replacement": "conc"
+  },
+  {
+    "name": "ripemd256",
+    "replacement": "ripemd"
+  },
+  {
+    "name": "nebula-graph-fbthrift-raftex",
+    "replacement": "nebula-fbthrift-raftex"
+  },
+  {
+    "name": "openal-rs",
+    "replacement": "alto"
+  },
+  {
+    "name": "lombokrs",
+    "replacement": "lombok-rs"
+  },
+  {
+    "name": "git-kit",
+    "replacement": "inkan"
+  },
+  {
+    "name": "pyxel-extension",
+    "replacement": "pyxel-wrapper"
+  },
+  {
+    "name": "nebula-graph-fbthrift-graph-v2",
+    "replacement": "nebula-fbthrift-graph-v2"
+  },
+  {
+    "name": "expect-exit",
+    "replacement": "anyhow"
+  },
+  {
+    "name": "lapin-async",
+    "replacement": "lapin"
+  },
+  {
+    "name": "llvm-sys-featured",
+    "replacement": "llvm-sys"
+  },
+  {
+    "name": "alloc-cortex-m",
+    "replacement": "embedded-alloc"
+  },
+  {
+    "name": "rc_event_queue",
+    "replacement": "chute"
+  },
+  {
+    "name": "bevy_registry_export",
+    "replacement": "Blenvy"
+  },
+  {
+    "name": "unpak",
+    "replacement": "repak"
+  },
+  {
+    "name": "aws-lc-rust",
+    "replacement": "aws-lc-sys"
+  },
+  {
+    "name": "proto_wasm_plugin",
+    "replacement": "proto_core"
+  },
+  {
+    "name": "hjson2json",
+    "replacement": "Hjson"
+  },
+  {
+    "name": "lmake_lines_of_code",
+    "replacement": "cargo-auto"
+  },
+  {
+    "name": "ratatui-textarea",
+    "replacement": "tui-textarea"
+  },
+  {
+    "name": "un_algebra",
+    "replacement": "alga"
+  },
+  {
+    "name": "hematite-client",
+    "replacement": "hematite"
+  },
+  {
+    "name": "duniter-keys",
+    "replacement": "duniter-crypto"
+  },
+  {
+    "name": "trust-dns-resolver",
+    "replacement": "hickory-resolver"
+  },
+  {
+    "name": "tor-congestion",
+    "replacement": "tor-proto"
+  },
+  {
+    "name": "yara-x-fmt",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "caer",
+    "replacement": "caer-make"
+  },
+  {
+    "name": "arcon_spec",
+    "replacement": "arcon_proto"
+  },
+  {
+    "name": "ethereumvm-network-ellaism",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "ethereumvm-network-musicoin",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "apple-errnos",
+    "replacement": "bsd-errnos"
+  },
+  {
+    "name": "rea-rs-macros",
+    "replacement": "float_eq"
+  },
+  {
+    "name": "esp32c3-hal",
+    "replacement": "esp-hal"
+  },
+  {
+    "name": "slice-by-8",
+    "replacement": "hud-slice-by-8"
+  },
+  {
+    "name": "bunbun-worker",
+    "replacement": "tonic"
+  },
+  {
+    "name": "ethereumvm-network-foundation",
+    "replacement": "ethereumvm-network"
+  },
+  {
+    "name": "async-serialization",
+    "replacement": "async-codec"
+  },
+  {
+    "name": "aesni",
+    "replacement": "aes"
+  },
+  {
+    "name": "better-minify-js",
+    "replacement": "minify-js"
+  },
+  {
+    "name": "openai-openapi",
+    "replacement": "openai2"
+  },
+  {
+    "name": "rust-script",
+    "replacement": "cargo-eval"
+  },
+  {
+    "name": "tupm",
+    "replacement": "PBKDF2"
+  },
+  {
+    "name": "levenshtein-rs",
+    "replacement": "levenshtein-distance"
+  },
+  {
+    "name": "next-rs",
+    "replacement": "opensass"
+  },
+  {
+    "name": "boa_unicode",
+    "replacement": "icu_properties"
+  },
+  {
+    "name": "slow_primes",
+    "replacement": "primal"
+  },
+  {
+    "name": "yew-sidebar",
+    "replacement": "sidebar"
+  },
+  {
+    "name": "rayon-hash",
+    "replacement": "hashbrown"
+  },
+  {
+    "name": "bounded-integer-macro",
+    "replacement": "serde1"
+  },
+  {
+    "name": "deunicode",
+    "replacement": "any_ascii"
+  },
+  {
+    "name": "safina-async-test",
+    "replacement": "safina"
+  },
+  {
+    "name": "reqwest-cache",
+    "replacement": "http-cache-reqwest"
+  },
+  {
+    "name": "truelayer-extensions",
+    "replacement": "task-local-extensions"
+  },
+  {
+    "name": "jwt-compact-preview",
+    "replacement": "jwt-simple"
+  },
+  {
+    "name": "boa_string",
+    "replacement": "boa_unicode"
+  },
+  {
+    "name": "pebble-sys",
+    "replacement": "pebble-skip"
+  },
+  {
+    "name": "dharitri-wasm-module-pause",
+    "replacement": "dharitri-wasm-modules"
+  },
+  {
+    "name": "oaf",
+    "replacement": "restore"
+  },
+  {
+    "name": "wincolor",
+    "replacement": "winapi-util"
+  },
+  {
+    "name": "bevy_gltf_components",
+    "replacement": "Blenvy"
+  },
+  {
+    "name": "shuttle-poise",
+    "replacement": "shuttle-serenity"
+  },
+  {
+    "name": "nebula-graph-fbthrift-meta",
+    "replacement": "nebula-fbthrift-meta"
+  },
+  {
+    "name": "quiche-mallard",
+    "replacement": "quiche"
+  },
+  {
+    "name": "hdrsample",
+    "replacement": "hdrhistogram"
+  },
+  {
+    "name": "natsio",
+    "replacement": "nats"
+  },
+  {
+    "name": "dharitri-wasm-module-dns",
+    "replacement": "dharitri-wasm-modules"
+  },
+  {
+    "name": "field_iterator",
+    "replacement": "fields-iter"
+  },
+  {
+    "name": "lucet-analyze",
+    "replacement": "lucet-objdump"
+  },
+  {
+    "name": "monero-serai-mirror",
+    "replacement": "monero-wallet"
+  },
+  {
+    "name": "serde-matcher",
+    "replacement": "serde_json_matcher"
+  },
+  {
+    "name": "pwasm-utils",
+    "replacement": "wasm-instrument"
+  },
+  {
+    "name": "blob-store",
+    "replacement": "blobstore"
+  },
+  {
+    "name": "indy-sdk",
+    "replacement": "indy"
+  },
+  {
+    "name": "zinc64-core",
+    "replacement": "zinc64-emu"
+  },
+  {
+    "name": "ethers-solc",
+    "replacement": "foundry-compilers"
+  },
+  {
+    "name": "block-cipher",
+    "replacement": "cipher"
+  },
+  {
+    "name": "pi_data_view",
+    "replacement": "bytes"
+  },
+  {
+    "name": "tui-logger",
+    "replacement": "ratatui"
+  },
+  {
+    "name": "expandenv",
+    "replacement": "shellexpand"
+  },
+  {
+    "name": "pam-auth",
+    "replacement": "pam"
+  },
+  {
+    "name": "custom_derive",
+    "replacement": "macro-attr"
+  },
+  {
+    "name": "enum-kinds-traits",
+    "replacement": "enum-kinds"
+  },
+  {
+    "name": "tiberius",
+    "replacement": "rustls"
+  },
+  {
+    "name": "bevy_xpbd_3d",
+    "replacement": "avian3d"
+  },
+  {
+    "name": "rand_os",
+    "replacement": "rand_core"
+  },
+  {
+    "name": "rfid-rs",
+    "replacement": "mfrc522"
+  },
+  {
+    "name": "color_space",
+    "replacement": "palette"
+  },
+  {
+    "name": "drogue-tls",
+    "replacement": "embedded-tls"
+  },
+  {
+    "name": "runrust",
+    "replacement": "cargo-eval"
+  },
+  {
+    "name": "rayon-futures",
+    "replacement": "rayon-core"
+  },
+  {
+    "name": "srce",
+    "replacement": "selfref"
+  },
+  {
+    "name": "yew-accordion",
+    "replacement": "accordion-rs"
+  },
+  {
+    "name": "truetype",
+    "replacement": "opentype"
+  },
+  {
+    "name": "rsa-export",
+    "replacement": "rsa"
+  },
+  {
+    "name": "encryptedfs",
+    "replacement": "rencfs"
+  },
+  {
+    "name": "elrond-wasm-module-users",
+    "replacement": "elrond-wasm-modules"
+  },
+  {
+    "name": "tzparse",
+    "replacement": "libtzfile"
+  },
+  {
+    "name": "ruma-api-macros",
+    "replacement": "ruma-macros"
+  },
+  {
+    "name": "ed25519-dalek-v2",
+    "replacement": "ed25519-dalek"
+  },
+  {
+    "name": "ordslice",
+    "replacement": "superslice"
+  },
+  {
+    "name": "sn_data_types",
+    "replacement": "safe_network"
+  },
+  {
+    "name": "htsget-actix",
+    "replacement": "htsget-axum"
+  },
+  {
+    "name": "rust_intfic",
+    "replacement": "intfic"
+  },
+  {
+    "name": "gdnative-arvr",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "cpython",
+    "replacement": "PyO3"
+  },
+  {
+    "name": "icu4x",
+    "replacement": "icu"
+  },
+  {
+    "name": "sycamore-seoul",
+    "replacement": "webtric"
+  },
+  {
+    "name": "cortex-m-rtfm",
+    "replacement": "cortex-m-rtic"
+  },
+  {
+    "name": "yeslogic-ucd-generate",
+    "replacement": "regex-cli"
+  },
+  {
+    "name": "adi_speaker",
+    "replacement": "Wavy"
+  },
+  {
+    "name": "belt-ecb",
+    "replacement": "cts"
+  },
+  {
+    "name": "nphysics3d",
+    "replacement": "rapier3d"
+  },
+  {
+    "name": "linera-wasmer-compiler-cranelift",
+    "replacement": "wasmer-compiler-llvm"
+  },
+  {
+    "name": "hlist2",
+    "replacement": "frunk"
+  },
+  {
+    "name": "enum-kinds-macros",
+    "replacement": "enum-kinds"
+  },
+  {
+    "name": "reflux",
+    "replacement": "Tokio"
+  },
+  {
+    "name": "concrete_lib",
+    "replacement": "concrete"
+  },
+  {
+    "name": "grafbase-composition",
+    "replacement": "graphql-composition"
+  },
+  {
+    "name": "cargo-manifest",
+    "replacement": "cargo-util-schemas"
+  },
+  {
+    "name": "lmake_md_to_doc_comments",
+    "replacement": "cargo-auto"
+  },
+  {
+    "name": "gaea",
+    "replacement": "Mio"
+  },
+  {
+    "name": "async-ssh2",
+    "replacement": "async-ssh2-lite"
+  },
+  {
+    "name": "bincode2",
+    "replacement": "Bincode"
+  },
+  {
+    "name": "pi_adler32",
+    "replacement": "adler32"
+  },
+  {
+    "name": "hpn-client",
+    "replacement": "hpnc"
+  },
+  {
+    "name": "cargo-junit",
+    "replacement": "cargo-test-junit"
+  },
+  {
+    "name": "sp-core-hashing",
+    "replacement": "sp-crypto-hashing"
+  },
+  {
+    "name": "nonparallel",
+    "replacement": "serial_test"
+  },
+  {
+    "name": "tokio-batch",
+    "replacement": "futures-batch"
+  },
+  {
+    "name": "icrate",
+    "replacement": "objc2"
+  },
+  {
+    "name": "rinja",
+    "replacement": "askama"
+  },
+  {
+    "name": "axum-controller",
+    "replacement": "axum-folder-router"
+  },
+  {
+    "name": "sn_url",
+    "replacement": "safe_network"
+  },
+  {
+    "name": "abstract-core-testing",
+    "replacement": "abstract-sdk"
+  },
+  {
+    "name": "lender",
+    "replacement": "chunky"
+  },
+  {
+    "name": "clapme",
+    "replacement": "auto-args"
+  },
+  {
+    "name": "yew-scroll",
+    "replacement": "scroll-rs"
+  },
+  {
+    "name": "rocket-etagged-file-response",
+    "replacement": "rocket-etagged-raw-response"
+  },
+  {
+    "name": "pathutil",
+    "replacement": "anyhow-std"
+  },
+  {
+    "name": "myhumantime",
+    "replacement": "humantime-serde"
+  },
+  {
+    "name": "tezos-smart-rollup-core",
+    "replacement": "tezos-smart-rollup-host"
+  },
+  {
+    "name": "tokio-timer-patched",
+    "replacement": "tokio"
+  },
+  {
+    "name": "cargo-add",
+    "replacement": "cargo-edit"
+  },
+  {
+    "name": "rea-rs-low",
+    "replacement": "float_eq"
+  },
+  {
+    "name": "tokio-http2",
+    "replacement": "HPACK"
+  },
+  {
+    "name": "rsincron",
+    "replacement": "incron"
+  },
+  {
+    "name": "terra-asset",
+    "replacement": "cw-asset"
+  },
+  {
+    "name": "oysterpack_built_mod",
+    "replacement": "oysterpack_app_metadata"
+  },
+  {
+    "name": "puccinier",
+    "replacement": "whiskers"
+  },
+  {
+    "name": "bb8-nebula-graph",
+    "replacement": "bb8-nebula"
+  },
+  {
+    "name": "tauri-mobile",
+    "replacement": "cargo-mobile2"
+  },
+  {
+    "name": "sorted-vec2",
+    "replacement": "sorted-vec"
+  },
+  {
+    "name": "humantime",
+    "replacement": "humantime-serde"
+  },
+  {
+    "name": "evm-network-ellaism",
+    "replacement": "evm-network"
+  },
+  {
+    "name": "core-math-sys",
+    "replacement": "core-math"
+  },
+  {
+    "name": "yara-x-cli",
+    "replacement": "YARA-X"
+  },
+  {
+    "name": "ordered-streams",
+    "replacement": "ordered-stream"
+  },
+  {
+    "name": "gdnative_geom",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "ocsp-x509",
+    "replacement": "x509-ocsp"
+  },
+  {
+    "name": "sht4x-ng",
+    "replacement": "sht4x"
+  },
+  {
+    "name": "speak",
+    "replacement": "Speak"
+  },
+  {
+    "name": "linux-embedded-hal",
+    "replacement": "gpio-cdev"
+  },
+  {
+    "name": "zinc64",
+    "replacement": "zinc64-emu"
+  },
+  {
+    "name": "uom",
+    "replacement": "serde"
+  },
+  {
+    "name": "c-closures",
+    "replacement": "c-closures-build"
+  },
+  {
+    "name": "naja_async_runtime",
+    "replacement": "async_executors"
+  },
+  {
+    "name": "onedrive-fuse",
+    "replacement": "rclone"
+  },
+  {
+    "name": "musicbrainz_rs_nova",
+    "replacement": "musicbrainz_rs"
+  },
+  {
+    "name": "elastic_macros",
+    "replacement": "elastic_derive"
+  },
+  {
+    "name": "rustc-serialize",
+    "replacement": "serde"
+  },
+  {
+    "name": "atsamd21-hal",
+    "replacement": "atsamd-hal"
+  },
+  {
+    "name": "rabe",
+    "replacement": "serde"
+  },
+  {
+    "name": "libsparkypi",
+    "replacement": "gpio-cdev"
+  },
+  {
+    "name": "positioned-io-preview",
+    "replacement": "positioned-io"
+  },
+  {
+    "name": "ripemd320",
+    "replacement": "ripemd"
+  },
+  {
+    "name": "default-net",
+    "replacement": "netdev"
+  },
+  {
+    "name": "net-mc",
+    "replacement": "minceraft"
+  },
+  {
+    "name": "iced_audio_widgets",
+    "replacement": "iced_audio"
+  },
+  {
+    "name": "pyxel-core",
+    "replacement": "pyxel-engine"
+  },
+  {
+    "name": "huffman-compress2",
+    "replacement": "huffman-compress"
+  },
+  {
+    "name": "math-functions",
+    "replacement": "ruut-functions"
+  },
+  {
+    "name": "sha-1",
+    "replacement": "sha1"
+  },
+  {
+    "name": "wasmcloud-runtime",
+    "replacement": "wasmcloud-host"
+  },
+  {
+    "name": "poem-openapi-macro",
+    "replacement": "poem-extensions-macro"
+  },
+  {
+    "name": "persist-es",
+    "replacement": "cqrs-es"
+  },
+  {
+    "name": "tetanes-web",
+    "replacement": "tetanes"
+  },
+  {
+    "name": "elastic_date_macros",
+    "replacement": "elastic_types_derive"
+  },
+  {
+    "name": "duniter-rs-wotb",
+    "replacement": "duniter-wotb"
+  },
+  {
+    "name": "pimalaya-shellexpand",
+    "replacement": "shellexpand-utils"
+  },
+  {
+    "name": "hexga_base",
+    "replacement": "hexga"
+  },
+  {
+    "name": "lottie2gif",
+    "replacement": "lottieconv"
+  },
+  {
+    "name": "cargo-apk",
+    "replacement": "xbuild"
+  },
+  {
+    "name": "xdg-rs",
+    "replacement": "xdg-basedir"
+  },
+  {
+    "name": "sdfgen",
+    "replacement": "distance-field"
+  },
+  {
+    "name": "wasm-run",
+    "replacement": "xtask-wasm"
+  },
+  {
+    "name": "yabf",
+    "replacement": "vob"
+  },
+  {
+    "name": "error-annotation",
+    "replacement": "anyhow"
+  },
+  {
+    "name": "libparasail-sys",
+    "replacement": "parasail-rs"
+  },
+  {
+    "name": "vexide-math",
+    "replacement": "Evian"
+  },
+  {
+    "name": "rawmv",
+    "replacement": "coreutils"
+  },
+  {
+    "name": "bytebuffer-rs",
+    "replacement": "bytebuffer"
+  },
+  {
+    "name": "mockall_examples",
+    "replacement": "Mockall"
+  },
+  {
+    "name": "hd44780-hal",
+    "replacement": "hd44780-driver"
+  },
+  {
+    "name": "cargo-wheel",
+    "replacement": "maturin"
+  },
+  {
+    "name": "hyper-server",
+    "replacement": "axum"
+  },
+  {
+    "name": "gdnative-animation",
+    "replacement": "gdnative"
+  },
+  {
+    "name": "redid",
+    "replacement": "CVT"
+  },
+  {
+    "name": "tailwag_orm_macro_logic",
+    "replacement": "tailwag_orm_macros"
+  },
+  {
+    "name": "awi",
+    "replacement": "window"
+  },
+  {
+    "name": "switchboard-v2",
+    "replacement": "switchboard-solana"
+  },
+  {
+    "name": "atsamd21e18a",
+    "replacement": "atsamd21e"
+  },
+  {
+    "name": "fnm",
+    "replacement": "Homebrew"
+  },
+  {
+    "name": "tun2",
+    "replacement": "tun"
+  },
+  {
+    "name": "rl_localtime",
+    "replacement": "tz-rs"
+  },
+  {
+    "name": "onc-rpc",
+    "replacement": "ietf"
+  },
+  {
+    "name": "minions",
+    "replacement": "acto-rs"
+  },
+  {
+    "name": "pixel-game-lib",
+    "replacement": "chuot"
+  },
+  {
+    "name": "crossterm_input",
+    "replacement": "crossterm"
+  },
+  {
+    "name": "rugflo",
+    "replacement": "rug"
+  },
+  {
+    "name": "xsalsa20poly1305",
+    "replacement": "crypto_secretbox"
+  },
+  {
+    "name": "input_yew",
+    "replacement": "input-rs"
+  },
+  {
+    "name": "sfl_parser",
+    "replacement": "bmfont_parser"
+  },
+  {
+    "name": "cemu-smm",
+    "replacement": "smmdb"
+  },
+  {
+    "name": "lmake_cargo_toml_to_md",
+    "replacement": "cargo-auto"
+  },
+  {
+    "name": "duniter-wotb",
+    "replacement": "runiter-wot"
+  },
+  {
+    "name": "injective-cosmwasm",
+    "replacement": "injective-std"
+  },
+  {
+    "name": "blake2b",
+    "replacement": "blake2"
+  },
+  {
+    "name": "vercre-vp",
+    "replacement": "vercre-verifier"
+  },
+  {
+    "name": "hungarian",
+    "replacement": "pathfinding"
+  },
+  {
+    "name": "ffmpeg-sys-fframes",
+    "replacement": "ffmpeg-sys-next"
+  },
+  {
+    "name": "yoga",
+    "replacement": "taffy"
+  },
+  {
+    "name": "trauma",
+    "replacement": "Zou"
+  },
+  {
+    "name": "fixed-buffer-tokio",
+    "replacement": "fixed-buffer"
+  },
+  {
+    "name": "hashmap_core",
+    "replacement": "hashbrown"
+  },
+  {
+    "name": "msp430fr2476",
+    "replacement": "msp430fr247x"
+  },
+  {
+    "name": "festivities",
+    "replacement": "process_control"
+  },
+  {
+    "name": "serde-seeded-derive",
+    "replacement": "serde-seeded"
+  },
+  {
+    "name": "awesome-cli",
+    "replacement": "arun"
+  },
+  {
+    "name": "dcmdump",
+    "replacement": "dicom-dump"
+  },
+  {
+    "name": "Boa",
+    "replacement": "boa_engine"
+  },
+  {
+    "name": "polymesh-extension",
+    "replacement": "polymesh-api"
+  },
+  {
+    "name": "pact_verifier_ffi",
+    "replacement": "pact_ffi"
+  },
+  {
+    "name": "spring-stream",
+    "replacement": "redpanda"
+  },
+  {
+    "name": "transit_model_procmacro",
+    "replacement": "relational_types"
+  },
+  {
+    "name": "macro_state",
+    "replacement": "macro_magic"
+  },
+  {
+    "name": "ch32v-rt-macros",
+    "replacement": "qingke-rt-macros"
+  },
+  {
+    "name": "awl",
+    "replacement": "web-sys"
+  },
+  {
+    "name": "safina-timer",
+    "replacement": "safina"
+  },
+  {
+    "name": "ethcontract-generate",
+    "replacement": "ethcontract-derive"
+  },
+  {
+    "name": "txmailer",
+    "replacement": "emailer"
+  },
+  {
+    "name": "sqldiff",
+    "replacement": "sqlmo"
+  },
+  {
+    "name": "curv-embedded",
+    "replacement": "k256"
+  },
+  {
+    "name": "python_mixin",
+    "replacement": "external_mixin"
+  },
+  {
+    "name": "wait-list",
+    "replacement": "pin-list"
+  },
+  {
+    "name": "joinery_macros",
+    "replacement": "DuckDB"
+  },
+  {
+    "name": "secretbox",
+    "replacement": "crypto_box"
+  },
+  {
+    "name": "ssvm_storage_interface",
+    "replacement": "wasmedge_storage_interface"
+  },
+  {
+    "name": "ethcontract-generate-fork",
+    "replacement": "ethcontract-derive"
+  },
+  {
+    "name": "sn_routing",
+    "replacement": "safe_network"
+  },
+  {
+    "name": "pretty_assertions_sorted_fork",
+    "replacement": "pretty_assertions"
+  },
+  {
+    "name": "kvm_wrapper",
+    "replacement": "kvm-bindings"
+  },
+  {
+    "name": "stivale",
+    "replacement": "stivale-boot"
+  },
+  {
+    "name": "net2",
+    "replacement": "socket2"
+  }
+]
